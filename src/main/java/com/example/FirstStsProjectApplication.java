@@ -13,7 +13,7 @@ public class FirstStsProjectApplication implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("First STS Project..!!");
+		System.out.println("First STS Project..!!\n Welcome To GIT");
 		
 	}
 }
